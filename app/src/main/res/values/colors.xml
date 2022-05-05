@@ -7,4 +7,94 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    /// Light mode
+    <color name="Base_Ink300">#747E8B</color>
+    <color name="Base_Ink500">#2E3238</color>
+    <color name="Base_Ink400">#515861</color>
+    <color name="Branding_Secondary">#F37C25</color>
+    <color name="White_W500">#FFFFFF</color>
+    <color name="Red_R400">#F84B4B</color>
+    <color name="Base_B500">#000000</color>
+    <color name="Base_Ink100">#F1F2F3</color>
+    <color name="Base_Ink200">#BABFC5</color>
+    <color name="Black_B200">#4D000000</color>
+    <color name="Primary_Pri400">#257DF3</color>
+    <color name="Branding_Brand">#0C64D9</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#FF3B30</color>
+
+
+    ///// NEW
+    /// System background
+    <color name="system_background_primary">#FFFFFF</color>
+    <color name="system_background_secondary">#F2F2F7</color>
+    <color name="system_background_secondary_light">#F2F2F7</color>
+    <color name="system_background_secondary_dark">#1C1C1E</color>
+    <color name="system_background_tertiary">#FAFAFA</color>
+    <color name="system_background_tertiary_light">#FAFAFA</color>
+    <color name="system_background_tertiary_dark">#2C2C2E</color>
+    <color name="system_background_quarternary">#FFFFFF</color>
+    <color name="system_background_nary">#F2F2F7</color>
+    <color name="system_background_day">#FAFAFA</color>
+
+    //System tinst
+    <color name="system_tints">#007AFF</color>
+    <color name="system_tints_light">#007AFF</color>
+    <color name="system_tints_dark">#0A84FF</color>
+    <color name="system_gray_01">#8E8E93</color>
+    <color name="system_gray_01_light">#8E8E93</color>
+    <color name="system_gray_01_dark">#8E8E93</color>
+
+
+    ///  Separator Colors/Light/Scrim
+    <color name="separator_colors_scrim">#99000000</color>
+
+    ////LabelS Colors
+
+    <color name="label_colors_primary">#000000</color>
+    <color name="label_colors_primary_dark">#FFFFFF</color>
+    <color name="label_colors_primary_light">#000000</color>
+    <color name="label_colors_secondary">#993C3C43</color>
+    <color name="label_colors_secondary_light">#993C3C43</color>
+    <color name="label_colors_secondary_dark">#99EBEBF5</color>
+    <color name="label_colors_tertiary">#4D3C3C43</color>
+    <color name="label_colors_tertiary_light">#4D3C3C43</color>
+    <color name="label_colors_tertiary_dark">#4DEBEBF5</color>
+    <color name="label_colors_quarternary">#2E3C3C43</color>
+
+    ////SeparatorS Colors Separator Colors / Light / Opaque
+    <color name="separator_colors_opaque">#C6C6C8</color>
+    <color name="separator_colors_opaque_light">#C6C6C8</color>
+    <color name="separator_colors_opaque_dark">#38383A</color>
+    <color name="separator_colors_non_opaque">#5C3C3C43</color>
+    ///FillS Colors
+    <color name="fill_colors_primary">#33787880</color>
+    <color name="fill_colors_secondary">#29787880</color>
+    <color name="fill_colors_secondary_light">#29787880</color>
+    <color name="fill_colors_secondary_dark">#52787880</color>
+    <color name="fill_colors_tertiary">#1F767680</color>
+    <color name="fill_colors_tertiary_light">#1F767680</color>
+    <color name="fill_colors_tertiary_dark">#3D767680</color>
+    <color name="fill_colors_quarternary">#14747480</color>
+    <color name="fill_colors_quarternary_light">#14747480</color>
+    <color name="fill_colors_quarternary_dark">#2E747480</color>
+
+    //// OTHER
+    <color name="text_login_apple">#FFFFFF</color>
+    <color name="bg_btn_login_apple">#1C1C1E</color>
+    <color name="bg_btn_login_apple_light">#1C1C1E</color>
+    <color name="bg_btn_login_apple_dark">#3A3A3C</color>
+    <color name="text_login_facebook">#FFFFFF</color>
+    <color name="bg_btn_login_facebook">#1877F2</color>
+    <color name="bg_btn_login_facebook_dark">#1367D4</color>
+    <color name="bg_btn_login_facebook_light">#1877F2</color>
+    <color name="text_login_google">#000000</color>
+    <color name="text_login_google_light">#000000</color>
+    <color name="text_login_google_dark">#FFFFFF</color>
+    <color name="bg_btn_login_google">#E5E5EB</color>
+    <color name="bg_btn_login_google_light">#E5E5EB</color>
+    <color name="bg_btn_login_google_dark">#3A3A3C</color>
+
 </resources>
