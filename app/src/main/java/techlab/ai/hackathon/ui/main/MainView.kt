@@ -4,7 +4,6 @@ import techlab.ai.hackathon.data.model.DemoModel
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 interface MainView {
 

@@ -8,7 +8,6 @@ import androidx.fragment.app.Fragment
 
 /**
  * @author BachDV
- * Date:05/05/2022
  */
 abstract class BaseFragment : Fragment() {
 

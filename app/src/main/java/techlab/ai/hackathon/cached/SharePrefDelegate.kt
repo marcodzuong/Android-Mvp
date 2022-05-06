@@ -8,7 +8,6 @@ import kotlin.reflect.KProperty
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 @Suppress("UNCHECKED_CAST")
 class SharePrefDelegate<K>(val share : SharedPreferences, val key : String, val defaultValue : K):

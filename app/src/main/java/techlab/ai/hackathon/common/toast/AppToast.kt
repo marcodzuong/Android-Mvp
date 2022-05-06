@@ -17,7 +17,6 @@ import techlab.ai.hackathon.R
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 class AppToast {
     private var contentResId = 0

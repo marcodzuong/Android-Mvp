@@ -15,7 +15,6 @@ import techlab.ai.hackathon.cached.SharePref
 
 /**
  * @author BachDV
- * Date:05/05/2022
  */
 object ApiClient {
 

@@ -7,7 +7,6 @@ import techlab.ai.hackathon.ui.base.BaseController
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 class MainController(context: Context,private val mainView: MainView) : BaseController(context) {
 

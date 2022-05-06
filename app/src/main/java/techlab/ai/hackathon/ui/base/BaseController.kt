@@ -7,7 +7,6 @@ import techlab.ai.hackathon.network.ApiClient
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 open class BaseController(context: Context) {
 

@@ -6,7 +6,6 @@ import androidx.multidex.MultiDexApplication
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 class MyApplication: MultiDexApplication() {
 

@@ -4,7 +4,6 @@ import com.google.gson.annotations.SerializedName
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 class BaseListResponse<T>(
     @SerializedName("status_code")

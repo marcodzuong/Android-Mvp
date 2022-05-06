@@ -7,11 +7,10 @@ import techlab.ai.hackathon.MyApplication
 
 /**
  * @author BachDV
- * Date:06/05/2022
  */
 object SharePref {
 
-    private const val FILE_NAME = "petory.share.data"
+    private const val FILE_NAME = "share.data"
 
     private var prefs: SharedPreferences =
         MyApplication.mContext.getSharedPreferences(FILE_NAME, Context.MODE_PRIVATE)
@@ -23,6 +22,6 @@ object SharePref {
 
     @SuppressLint("CommitPrefEdits")
     fun clear() {
-        prefs.edit().clear().commit()
+        prefs.edit().clear().apply()
     }
 }
